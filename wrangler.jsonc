@@ -1,11 +1,11 @@
 {
-  "name": "drhao33-consult",
+  "name": "drhao33-coach",
   "compatibility_date": "2026-07-04",
   "assets": {
     "directory": "./",
     "not_found_handling": "single-page-application"
   },
   "routes": [
-    { "pattern": "consult.drhao33.com", "custom_domain": true }
+    { "pattern": "coach.drhao33.com", "custom_domain": true }
   ]
 }
